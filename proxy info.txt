@@ -1,0 +1,2 @@
+Proxies in ./db/proxies.txt
+Turn off config['proxyless'] if u wanna use proxies
